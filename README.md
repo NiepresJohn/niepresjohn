@@ -16,12 +16,6 @@
 
 ## 🚀 About Me
 
-<div align="center">
-
-### Full-Stack Web Developer | Cum Laude Graduate
-
-</div>
-
 <table>
 <tr>
 <td width="65%" valign="top" style="padding: 25px 30px;">
@@ -30,8 +24,6 @@
 
 Delivering **clean code**, **innovative UI/UX**, and **production-ready solutions** for startups and growing brands. Known for turning complex requirements into elegant, maintainable applications.
 
-<br>
-
 ### 🎯 Technical Specializations
 
 - Building multi-tenant SaaS platforms with subscription models
@@ -39,8 +31,6 @@ Delivering **clean code**, **innovative UI/UX**, and **production-ready solution
 - Implementing AI chatbots and fraud detection systems
 - Creating data visualization dashboards and analytics tools
 - Integrating third-party APIs and automation workflows
-
-<br>
 
 ### 🌍 Industries Served
 
@@ -51,23 +41,18 @@ Real Estate • SaaS & Technology • Construction • Home Services • Tourism
 
 ### 📊 Quick Stats
 
-<div align="center">
+<div>
 
 **30+**
 Projects Delivered
-
 **100%**
 Client Satisfaction
-
 **85%**
 Repeat Client Rate
-
 **3+**
 Years Experience
 
 </div>
-
-<br>
 
 ### 🏆 Credentials
 
@@ -75,8 +60,6 @@ Years Experience
 GWA: 1.59
 Best in Capstone Project
 *Central Mindanao University*
-
-<br>
 
 ### 🌐 Availability
 
