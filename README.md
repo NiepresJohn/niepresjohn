@@ -146,7 +146,7 @@ Translating designs into **pixel-perfect, responsive interfaces**. Strong focus 
 
 **Industry:** SaaS | Freelance Marketplace
 **Role:** Founder & Lead Developer
-**Timeline:** 2024 - Present
+**Timeline:** 2025 - Present
 **Website:** [jobhorizons.online](https://jobhorizons.online/)
 
 **Platform Overview:**
