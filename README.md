@@ -6,7 +6,7 @@
 
 *Architecting scalable solutions for enterprises and startups worldwide*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-niepresjohn.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://niepresjohn.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-niepresjohn.com-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://niepresjohn.com)
 [![Email](https://img.shields.io/badge/Email-dev%40niepresjohn.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@niepresjohn.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-niepresjohn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niepresjohn)
 [![Twitter](https://img.shields.io/badge/Twitter-@niepresjohn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/niepresjohn)
@@ -19,47 +19,53 @@
 
 <div align="center">
 
-**Transforming Business Ideas into Scalable Digital Solutions**
+### Transforming Business Ideas into Scalable Digital Solutions
 
-*Creative problem-solver with 3+ years of experience building enterprise-grade web applications*
-*Specialized in SaaS platforms, API integrations, and AI-powered automation*
+*Creative and detail-oriented Full-Stack Web Developer with 3+ years of experience building scalable, high-performance websites and web applications. Specializing in modern frameworks like Next.js, React.js, Laravel, and TypeScript. Known for delivering clean code, innovative UI/UX, and seamless responsiveness.*
 
 </div>
 
 <br>
 
-```typescript
-const niepresJohn = {
-    location: "Valencia City, Bukidnon, Philippines",
-    role: "Full-Stack Web Developer",
-    experience: "3+ years",
-    currentFocus: "Building scalable, high-performance web applications",
-    company: "JobHorizons (Founder & Developer)",
+<table>
+<tr>
+<td width="50%" valign="top">
 
-    highlights: {
-        projectsCompleted: "30+",
-        clientSatisfaction: "100%",
-        repeatClients: "85%",
-        industries: ["SaaS", "Tourism", "Construction", "Real Estate", "Consulting"],
-        specialization: ["Full-Stack Development", "API Integration", "AI Automation", "Data Visualization"]
-    },
+**🎯 Professional Focus**
+- Building enterprise-grade SaaS platforms
+- Developing custom e-commerce solutions
+- Creating dynamic systems for startups
+- Implementing AI-powered automation
 
-    expertise: {
-        frontend: ["Next.js", "React", "TypeScript", "Vue.js", "Tailwind CSS"],
-        backend: ["Node.js", "PHP", "Laravel", "RESTful APIs"],
-        database: ["PostgreSQL", "MongoDB", "Supabase", "Prisma"],
-        tools: ["Git", "Vercel", "Figma", "Postman", "WordPress"]
-    },
+**💼 Experience Highlights**
+- 30+ projects delivered successfully
+- 100% client satisfaction rate
+- 85% repeat client engagement
+- Expertise across 5+ industries
 
-    approach: "Architecture-first development with focus on scalability, security, and user experience",
+</td>
+<td width="50%" valign="top">
 
-    availableFor: ["Freelance Projects", "Full-time Opportunities", "Technical Collaboration"]
-};
-```
+**🏆 Academic Excellence**
+- BS Information Technology, Cum Laude
+- GWA: 1.59 (Central Mindanao University)
+- Best in Capstone Project
+- Majored in Software Development
 
-I'm a **detail-oriented developer** who specializes in transforming complex business requirements into **production-ready applications**. With a proven track record across diverse industries—from tourism platforms to construction management systems—I bring both technical expertise and business acumen to every project.
+**🌍 Location & Availability**
+- Based in Valencia City, Bukidnon, Philippines
+- Open to remote opportunities worldwide
+- Available for freelance and full-time roles
 
-**What sets me apart:** I don't just write code; I architect solutions that scale, prioritize user experience, and deliver measurable business value.
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+*Passionate about creating impactful solutions that drive business growth and deliver measurable results*
+
+</div>
 
 ---
 
@@ -78,7 +84,7 @@ Building enterprise-grade platforms with scalable architectures, real-time featu
 <td width="50%" valign="top">
 
 ### 🛒 E-commerce & Payment Solutions
-End-to-end online store development with seamless checkout experiences, inventory management, and **secure payment gateway integration** (Stripe, PayPal, GCash).
+End-to-end online store development with seamless checkout experiences, inventory management, and **secure payment gateway integration** (Stripe, PayPal, GCash, Braintree).
 
 **Recent Work:** Multiple retail platforms, B2B marketplaces
 
@@ -90,7 +96,7 @@ End-to-end online store development with seamless checkout experiences, inventor
 ### 🔌 API Integration & Automation
 Connecting disparate systems through **RESTful APIs** and **webhooks**. Expertise in third-party integrations (CRM, ERP, marketing tools) and building custom API solutions.
 
-**Recent Work:** Travel booking systems, construction management tools
+**Recent Work:** HubSpot integration, Zapier automation, ConvertKit
 
 </td>
 <td width="50%" valign="top">
@@ -106,9 +112,9 @@ Implementing **AI-powered chatbots**, fraud detection systems, and automated wor
 <td width="50%" valign="top">
 
 ### 📊 Data Visualization & Analytics
-Transforming complex datasets into **actionable insights** through interactive dashboards and real-time reporting. Expert in data modeling and performance optimization.
+Transforming complex datasets into **actionable insights** through interactive dashboards and real-time reporting. Expert in Google Analytics, Meta Pixel, and performance tracking.
 
-**Recent Work:** Executive dashboards, project tracking systems
+**Recent Work:** Executive dashboards, conversion tracking systems
 
 </td>
 <td width="50%" valign="top">
@@ -116,7 +122,7 @@ Transforming complex datasets into **actionable insights** through interactive d
 ### 🎨 UI/UX Implementation
 Translating designs into **pixel-perfect, responsive interfaces**. Strong focus on accessibility, performance, and modern design systems with Tailwind CSS and component libraries.
 
-**Recent Work:** Agency websites, consulting platforms
+**Recent Work:** Custom React applications, WordPress themes
 
 </td>
 </tr>
@@ -130,67 +136,149 @@ Translating designs into **pixel-perfect, responsive interfaces**. Strong focus 
 
 ---
 
-## 🌟 Featured Projects Portfolio
+## 🌟 JobHorizons - Freelance Marketplace Platform
 
 <div align="center">
 
-### Showcasing Full-Stack Excellence Across Diverse Industries
+### Building the Future of Freelance Work
+
+*A next-generation marketplace connecting verified professionals with global remote opportunities*
 
 </div>
 
 <br>
 
-<details open>
-<summary><strong>🚀 JobHorizons - Modern Freelance Marketplace Platform</strong></summary>
-
-<br>
-
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
 **Industry:** SaaS | Freelance Marketplace
 **Role:** Founder & Lead Developer
-**Timeline:** Ongoing (2024 - Present)
+**Timeline:** 2024 - Present
+**Website:** [jobhorizons.online](https://jobhorizons.online/)
 
-**Overview:**
-Next-generation freelance platform revolutionizing how clients and freelancers connect through innovative token-based proposals and AI-powered security features.
+**Platform Overview:**
+Revolutionary freelance marketplace that connects verified professionals with remote work opportunities worldwide. Features a proprietary token-based system for fair competition and AI-powered security to create a trusted ecosystem.
 
-**Key Innovations:**
-- 🎯 **Token-based proposal system** eliminating spam and ensuring quality
-- 🤖 **AI fraud detection** protecting users and transactions
-- 💳 **Escrow payment system** with automated milestone releases
-- 📊 **Real-time analytics** for both clients and freelancers
-- 🔐 **Enterprise authentication** with role-based access control
-- 🌐 **Multi-language support** for global reach
+**🎯 Key Innovations:**
+- **Token-Based Proposal System** - Users receive 150 free tokens weekly; bid tokens on proposals for increased visibility to clients
+- **AI-Powered Fraud Detection** - Advanced systems actively monitor and prevent scams
+- **Government ID Verification** - All users verified for trust and security
+- **Braintree Payment Processing** - Secure, encrypted transactions
+- **Real-Time Job Matching** - Intelligent matching algorithm connects freelancers with relevant opportunities
+- **Advanced Analytics Dashboard** - Track proposals, applications, and career metrics
+- **24/7 Customer Support** - Round-the-clock assistance for all users
 
-**Business Impact:**
-- Architected for scalability to handle 10,000+ concurrent users
-- Designed with SEO optimization for organic growth
-- Integrated email automation and notification systems
-- Built with modern tech stack for rapid feature development
+**💡 Unique Value Propositions:**
+- Transparent hiring with fair pricing
+- Document-verified clients for quality assurance
+- Global reach with local project accessibility
+- No credit card required to start
+- Proposal pipeline management (Accepted, Pending, Rejected, Withdrawn)
+- Industry insights showing demand trends
 
 </td>
-<td width="40%">
+<td width="40%" valign="top">
 
 **Tech Stack**
 
 ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Architecture**
-- Full-stack monorepo
+**Architecture & Features**
+- Server-side rendering (SSR)
 - RESTful API design
-- Real-time WebSocket
-- Optimistic UI updates
-- Server-side rendering
+- Real-time WebSocket updates
+- Optimistic UI patterns
 - Edge deployment
+- Responsive design
+- AI integration
+- Payment gateway integration
 
-**🔗 [Visit Project](https://jobhorizons.com)**
+**Business Impact**
+- Architected for 10,000+ concurrent users
+- Built with SEO optimization for organic growth
+- Email automation and notification systems
+- Scalable infrastructure for global reach
+- Fraud prevention and security protocols
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects Portfolio
+
+<div align="center">
+
+### Professional Experience Across Diverse Industries
+
+</div>
+
+<br>
+
+<details open>
+<summary><strong>🏢 PREIshare - Corporate Website & Digital Infrastructure</strong></summary>
+
+<br>
+
+<table>
+<tr>
+<td width="60%">
+
+**Industry:** Real Estate Investment
+**Role:** Full-Stack Web Developer
+**Timeline:** 2023 - 2025
+
+**Project Overview:**
+Comprehensive digital infrastructure development for a real estate investment company, including website development, server management, and marketing automation integration.
+
+**Key Deliverables:**
+- 🌐 **WordPress Website Development** - Built and launched professional company website
+- 🖥️ **Server Management** - Ensured uptime, security, and scalability of company infrastructure
+- 🔒 **Security Implementation** - Implemented security protocols to safeguard web assets
+- 📈 **SEO Strategy** - Managed comprehensive SEO for improved search visibility
+- 🤖 **Marketing Automation** - Integrated Zapier and ConvertKit for email campaigns
+- 📊 **Analytics Setup** - Configured Google Analytics and Meta Pixel with Conversions API
+
+**Business Impact:**
+- Improved online presence and brand visibility
+- Automated email marketing workflows
+- Enhanced security posture
+- Data-driven marketing insights through advanced tracking
+- Optimized server performance and reliability
+
+</td>
+<td width="40%">
+
+**Tech Stack**
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Tools & Integrations**
+- Zapier automation
+- ConvertKit email marketing
+- Google Analytics
+- Meta Pixel & Conversions API
+- cPanel/WHM
+- SSL certificates
+- SEO optimization tools
+
+**Key Responsibilities**
+- Full-stack development
+- Server administration
+- Security hardening
+- Marketing automation
+- Performance monitoring
+- Analytics implementation
 
 </td>
 </tr>
@@ -201,7 +289,7 @@ Next-generation freelance platform revolutionizing how clients and freelancers c
 <br>
 
 <details>
-<summary><strong>✈️ Bangkok Beyond Travel - Tourism Booking Platform</strong></summary>
+<summary><strong>🏘️ TheListingHub - Real Estate Platform & Mobile App</strong></summary>
 
 <br>
 
@@ -209,51 +297,57 @@ Next-generation freelance platform revolutionizing how clients and freelancers c
 <tr>
 <td width="60%">
 
-**Industry:** Travel & Tourism
-**Role:** Full-Stack Developer (Client Project)
-**Timeline:** 2024
+**Industry:** Real Estate & Property Management
+**Role:** Full-Stack Developer
+**Timeline:** 2024 - 2025
 
-**Overview:**
-Comprehensive travel booking and management platform for a Thailand-based tourism company, handling packages, reservations, and customer management.
+**Project Overview:**
+Advanced real estate platform with innovative sponsor share selling functionality, including cross-platform mobile applications and personalized marketing infrastructure.
 
 **Key Features:**
-- 🗓️ **Dynamic package builder** with real-time pricing calculations
-- 📱 **Mobile-responsive booking flow** optimized for conversions
-- 💳 **Multi-currency payment processing** (THB, USD, PHP)
-- 📧 **Automated email confirmations** and itinerary generation
-- 👥 **CRM integration** for customer relationship management
-- 📊 **Admin dashboard** with booking analytics and reporting
+- 🏠 **Property Listing Platform** - Comprehensive real estate listing system
+- 📱 **Mobile Applications** - Built and deployed apps for iOS (App Store) and Android (Google Play)
+- 💰 **Sponsor Share Selling** - Advanced functionality beyond traditional listing
+- 🌐 **Custom Marketing Sites** - Designed personalized sites for each sponsor
+- 🔗 **Subdomain Management** - Created custom funnels for sponsor promotion
+- 🖥️ **Hosting Infrastructure** - Managed complete hosting and deployment
 
 **Business Impact:**
-- Streamlined booking process reducing friction points
-- Integrated with third-party booking APIs for real-time availability
-- Implemented caching strategies for improved performance
-- Built custom CMS for easy content management
+- Multi-platform presence (Web, iOS, Android)
+- Innovative revenue model with sponsor shares
+- Personalized marketing capabilities
+- Scalable infrastructure for growth
+- Enhanced user engagement across platforms
 
 **Technical Highlights:**
-- Complex pricing logic with seasonal variations
-- Payment gateway integration with multiple providers
-- Image optimization for fast page loads
-- Mobile-first responsive design
+- Cross-platform mobile development
+- Custom subdomain architecture
+- Marketing funnel optimization
+- Asset management system
+- Payment processing integration
 
 </td>
 <td width="40%">
 
 **Tech Stack**
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Platforms**
+- iOS (App Store)
+- Android (Google Play)
+- Web application
+- Custom hosting
 
 **Architecture**
-- MVC pattern
-- API-first design
-- Queue-based emails
-- Redis caching
-- Payment gateway integration
-- RESTful endpoints
+- RESTful APIs
+- Mobile app deployment
+- Subdomain routing
+- Marketing automation
+- Payment integration
+- Cloud infrastructure
 
 </td>
 </tr>
@@ -264,7 +358,7 @@ Comprehensive travel booking and management platform for a Thailand-based touris
 <br>
 
 <details>
-<summary><strong>🏗️ CMBC Construction - Project Management System</strong></summary>
+<summary><strong>🏡 Honeydid - Custom Platform Development</strong></summary>
 
 <br>
 
@@ -272,51 +366,127 @@ Comprehensive travel booking and management platform for a Thailand-based touris
 <tr>
 <td width="60%">
 
-**Industry:** Construction & Project Management
-**Role:** Full-Stack Developer (Client Project)
-**Timeline:** 2023-2024
+**Industry:** Home Services Platform
+**Role:** Full-Stack Developer
+**Timeline:** 2024 - 2025
 
-**Overview:**
-Enterprise project management system for construction company, tracking projects, resources, timelines, and financial metrics across multiple construction sites.
+**Project Overview:**
+Fully customized web platform built from scratch using modern React ecosystem, featuring advanced API integrations and comprehensive analytics.
 
 **Key Features:**
-- 📋 **Project timeline tracking** with Gantt chart visualization
-- 👷 **Resource allocation** and workforce management
-- 💰 **Budget tracking** and expense monitoring
-- 📸 **Progress documentation** with photo uploads and notes
-- 📊 **Executive dashboard** with KPIs and project health metrics
-- 🔔 **Automated alerts** for milestones and deadline reminders
+- ⚛️ **Modern React Architecture** - Built with React.js and TypeScript
+- 🎨 **Custom UI/UX** - Designed with Tailwind CSS for responsive experience
+- 🔌 **API Integration** - Comprehensive API implementation using Postman
+- 📊 **Marketing Analytics** - Embedded HubSpot and Google Analytics
+- 🚀 **Advanced Frontend** - Implemented cutting-edge React features
+- 💼 **Business Intelligence** - User insights and performance tracking
 
 **Business Impact:**
-- Improved project visibility for executives and managers
-- Reduced delays through proactive milestone tracking
-- Centralized communication and documentation
-- Data-driven decision making with real-time metrics
+- Fully customized solution tailored to business needs
+- Enhanced user engagement tracking
+- Marketing automation capabilities
+- Data-driven decision making
+- Scalable architecture for future growth
 
 **Technical Highlights:**
-- Complex data relationships and reporting queries
-- Role-based access control (executives, managers, site workers)
-- Document management with secure cloud storage
-- Mobile-optimized interface for on-site usage
-- Real-time notifications and updates
+- TypeScript for type safety
+- Component-based architecture
+- API-first development approach
+- Analytics integration
+- Performance optimization
 
 </td>
 <td width="40%">
 
 **Tech Stack**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-**Architecture**
-- RESTful API
-- Document storage
-- Real-time updates
-- Complex aggregations
-- PDF report generation
-- Cloud file storage
+**Tools & Integration**
+- Postman API testing
+- HubSpot CRM
+- Google Analytics
+- Custom APIs
+- Modern tooling
+
+**Development Focus**
+- Type-safe development
+- API integration
+- Analytics tracking
+- User experience
+- Performance
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>🏗️ Olympus Precast Company - Corporate Website with AI</strong></summary>
+
+<br>
+
+<table>
+<tr>
+<td width="60%">
+
+**Industry:** Construction & Manufacturing
+**Role:** Full-Stack Developer
+**Timeline:** 2024 - 2025
+
+**Project Overview:**
+Professional corporate website showcasing company services and portfolio, enhanced with AI-powered customer engagement tools.
+
+**Key Features:**
+- 🌐 **WordPress Development** - Professional company website
+- 🤖 **AI Chatbot Integration** - Real-time customer support automation
+- 📁 **Portfolio Showcase** - Display of company projects and services
+- 💬 **Customer Engagement** - Automated interaction and support
+- 📱 **Responsive Design** - Optimized for all devices
+- 🎯 **Lead Generation** - Capturing and managing potential clients
+
+**Business Impact:**
+- Enhanced online professional presence
+- 24/7 automated customer support
+- Improved lead generation
+- Reduced response time for inquiries
+- Showcased company expertise and portfolio
+
+**Technical Highlights:**
+- WordPress customization
+- AI chatbot implementation
+- Custom theme development
+- SEO optimization
+- Performance tuning
+
+</td>
+<td width="40%">
+
+**Tech Stack**
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Features**
+- AI chatbot
+- Custom WordPress theme
+- Portfolio management
+- Contact forms
+- SEO optimization
+
+**Focus Areas**
+- User experience
+- AI integration
+- Lead generation
+- Professional design
+- Performance
 
 </td>
 </tr>
@@ -328,160 +498,9 @@ Enterprise project management system for construction company, tracking projects
 
 <div align="center">
 
-### 🎯 These projects demonstrate end-to-end development expertise across diverse industries
+### 🎯 Proven expertise delivering enterprise solutions across multiple industries
 
-**[View Complete Portfolio →](https://niepresjohn.vercel.app/)**
-
-</div>
-
----
-
-## 🤝 Client Portfolio & Impact
-
-<div align="center">
-
-### Trusted by Industry Leaders Across Diverse Sectors
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-<img src="https://img.shields.io/badge/Tourism-Travel-00D9FF?style=for-the-badge" alt="Tourism"/>
-
-### Bangkok Beyond Travel
-
-**Project Type:** Booking Platform
-**Industry:** Travel & Tourism
-**Location:** Bangkok, Thailand
-
-**Deliverables:**
-- Full-stack web application
-- Payment gateway integration
-- CRM system integration
-- Mobile-responsive design
-
-**Impact:** Streamlined booking process, increased online visibility
-
-</td>
-<td width="33%" align="center">
-
-<img src="https://img.shields.io/badge/Construction-Project_Mgmt-00D9FF?style=for-the-badge" alt="Construction"/>
-
-### CMBC Construction
-
-**Project Type:** Management System
-**Industry:** Construction
-**Location:** Philippines
-
-**Deliverables:**
-- Project tracking dashboard
-- Resource management tools
-- Budget monitoring system
-- Document management
-
-**Impact:** Improved project visibility, reduced communication gaps
-
-</td>
-<td width="33%" align="center">
-
-<img src="https://img.shields.io/badge/Consulting-BI_Platform-00D9FF?style=for-the-badge" alt="Consulting"/>
-
-### Ethos Edge Consulting
-
-**Project Type:** BI Dashboard
-**Industry:** Business Consulting
-**Location:** Global
-
-**Deliverables:**
-- Data visualization platform
-- Real-time analytics
-- Custom reporting tools
-- KPI tracking system
-
-**Impact:** Data-driven insights, executive decision support
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-<img src="https://img.shields.io/badge/Digital-Agency_Solutions-00D9FF?style=for-the-badge" alt="Digital Agency"/>
-
-### Goodyweb Agency
-
-**Project Type:** Multiple Solutions
-**Industry:** Digital Marketing
-**Location:** Philippines
-
-**Deliverables:**
-- Client websites
-- Custom WordPress themes
-- E-commerce platforms
-- API integrations
-
-**Impact:** Expanded service capabilities, enhanced client offerings
-
-</td>
-<td width="33%" align="center">
-
-<img src="https://img.shields.io/badge/Real_Estate-Property_Platform-00D9FF?style=for-the-badge" alt="Real Estate"/>
-
-### The Listing Hub
-
-**Project Type:** Property Management
-**Industry:** Real Estate
-**Location:** Philippines
-
-**Deliverables:**
-- Listing management system
-- Advanced search & filters
-- Agent dashboard
-- Lead tracking system
-
-**Impact:** Centralized listings, improved lead conversion
-
-</td>
-<td width="33%" align="center">
-
-<img src="https://img.shields.io/badge/SaaS-Marketplace-00D9FF?style=for-the-badge" alt="SaaS"/>
-
-### JobHorizons
-
-**Project Type:** Freelance Platform
-**Industry:** SaaS / Marketplace
-**Location:** Global
-
-**Deliverables:**
-- Complete platform build
-- AI fraud detection
-- Payment processing
-- Admin & user dashboards
-
-**Impact:** Own venture, ongoing innovation
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-```
-📊 CLIENT SATISFACTION METRICS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-    ⭐ 100% Client Satisfaction Rate
-    🔄 85% Repeat Client Engagement
-    🌍 Clients Across 5+ Countries
-    💼 Industries: Tourism, Construction, Consulting, Real Estate, SaaS, Marketing
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+**[View Complete Portfolio →](https://niepresjohn.com)**
 
 </div>
 
@@ -503,6 +522,7 @@ Enterprise project management system for construction company, tracking projects
 ### Databases & Backend
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
@@ -513,10 +533,13 @@ Enterprise project management system for construction company, tracking projects
 
 ### Tools & Platforms
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![MyKinsta](https://img.shields.io/badge/MyKinsta-5333ED?style=for-the-badge&logo=kinsta&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 
 ---
 
@@ -586,7 +609,7 @@ Long-term partnerships built on trust
 <td width="50%" valign="top">
 
 ### 🎯 Business-Focused Development
-I don't just write code—I solve business problems. Every technical decision is made with ROI, scalability, and user experience in mind. I understand that technology serves business goals, not the other way around.
+I don't just write code; I solve business problems. Every technical decision is made with ROI, scalability, and user experience in mind. I understand that technology serves business goals, not the other way around.
 
 ### 🚀 Full Project Ownership
 From architecture design to deployment and maintenance, I take complete ownership of projects. This ensures consistent quality, clear accountability, and seamless execution throughout the development lifecycle.
@@ -595,7 +618,7 @@ From architecture design to deployment and maintenance, I take complete ownershi
 <td width="50%" valign="top">
 
 ### 💬 Clear Communication
-Regular updates, transparent timelines, and proactive problem-solving keep you informed every step of the way. No surprises, no jargon—just honest, straightforward communication about your project's progress.
+Regular updates, transparent timelines, and proactive problem-solving keep you informed every step of the way. No surprises, no jargon; just honest, straightforward communication about your project's progress.
 
 ### ⚡ Proven Delivery Record
 With 30+ successful projects and 100% client satisfaction, I have a track record of delivering on time, on budget, and above expectations. My 85% repeat client rate speaks to the quality and reliability of my work.
@@ -618,7 +641,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00D9FF?style=for-the-badge)](https://niepresjohn.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00D9FF?style=for-the-badge)](https://niepresjohn.com)
 [![Email](https://img.shields.io/badge/📧_Email-dev@niepresjohn.com-EA4335?style=for-the-badge)](mailto:dev@niepresjohn.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-0077B5?style=for-the-badge)](https://www.linkedin.com/in/niepresjohn)
 
