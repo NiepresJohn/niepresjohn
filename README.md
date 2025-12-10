@@ -20,21 +20,103 @@
 
 ### Full-Stack Web Developer | Cum Laude Graduate | 30+ Projects Delivered
 
-*Creative and detail-oriented developer specializing in building scalable, high-performance web applications with modern frameworks like Next.js, React, Laravel, and TypeScript*
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**Creative Full-Stack Developer** with 3+ years building scalable, high-performance web applications. Specialized in modern tech stack: **Next.js, TypeScript, React, and PostgreSQL**. Expert in **Tailwind CSS, Node.js, and WordPress**.
+
+Delivering **clean code**, **innovative UI/UX**, and **production-ready solutions** for startups and growing brands. Known for turning complex requirements into elegant, maintainable applications.
+
+**🎯 Core Expertise:**
+- Enterprise SaaS platforms and subscription models
+- E-commerce solutions with payment integrations
+- Real-time data visualization dashboards
+- AI-powered automation and chatbot systems
+
+</td>
+<td width="40%" valign="top">
+
+### 📊 Quick Stats
+
+<div align="center">
+
+**30+**
+Projects Delivered
+
+**100%**
+Client Satisfaction
+
+**85%**
+Repeat Client Rate
+
+**7+**
+Industries Served
 
 </div>
 
----
+### 🏆 Credentials
 
-**🎯 Professional Focus:** Enterprise SaaS Platforms • E-commerce Solutions • AI-Powered Automation • Data Visualization
+**Cum Laude** Graduate
+GWA: 1.59
+Best in Capstone Project
+*Central Mindanao University*
 
-**💼 Track Record:** 30+ Projects • 100% Client Satisfaction • 85% Repeat Rate • 7+ Industries (Real Estate, SaaS, Construction, Home Services, Tourism, Consulting, Digital Marketing)
+</td>
+</tr>
+</table>
 
-**🏆 Academic Excellence:** BS Information Technology, **Cum Laude** with GWA 1.59 • Central Mindanao University • Best in Capstone Project • Software Development Major
+<table>
+<tr>
+<td align="center" width="33%" style="padding: 20px;">
 
-**🌍 Open for Opportunities:** Remote Work Worldwide • Based in Valencia City, Bukidnon, Philippines (UTC+8) • Available for Freelance Projects & Full-time Roles
+### 💼
+**Professional Experience**
 
----
+**3+ Years**
+
+Building enterprise applications for startups, established brands, and growing businesses
+
+</td>
+<td align="center" width="33%" style="padding: 20px;">
+
+### 🌐
+**Global Availability**
+
+**Remote Work Worldwide**
+
+Based in Valencia City, Bukidnon, Philippines (UTC+8)
+
+</td>
+<td align="center" width="33%" style="padding: 20px;">
+
+### 🚀
+**Ready to Contribute**
+
+**Full-time & Freelance**
+
+Available for immediate hire on exciting projects
+
+</td>
+</tr>
+</table>
+
+### 🛠️ Technology Stack
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+</div>
 
 <details>
 <summary><strong>📋 View Complete Profile</strong></summary>
@@ -49,13 +131,7 @@
 - Integrating third-party APIs and automation workflows
 
 **Industries Served:**
-1. Real Estate & Property Management
-2. SaaS & Technology Platforms
-3. Construction & Manufacturing
-4. Home Services
-5. Tourism & Travel
-6. Business Consulting
-7. Digital Marketing & Agencies
+Real Estate • SaaS • Construction • Home Services • Tourism • Consulting • Digital Marketing
 
 </details>
 
@@ -146,7 +222,7 @@ Translating designs into **pixel-perfect, responsive interfaces**. Strong focus 
 
 **Industry:** SaaS | Freelance Marketplace
 **Role:** Founder & Lead Developer
-**Timeline:** 2025 - Present
+**Timeline:** 2024 - Present
 **Website:** [jobhorizons.online](https://jobhorizons.online/)
 
 **Platform Overview:**
@@ -205,294 +281,19 @@ Revolutionary freelance marketplace that connects verified professionals with re
 
 ---
 
-## 🚀 Featured Projects Portfolio
+## 💼 Portfolio
 
 <div align="center">
 
-### Professional Experience Across Diverse Industries
+### Explore My Complete Project Portfolio
 
-</div>
+**Want to see my work in action?**
 
-<br>
+I've built enterprise applications, SaaS platforms, e-commerce solutions, and AI-powered systems across **7+ industries** including Real Estate, Construction, Home Services, Tourism, and more.
 
-<details open>
-<summary><strong>🏢 PREIshare - Corporate Website & Digital Infrastructure</strong></summary>
+### 🌐 **[View My Complete Portfolio →](https://niepresjohn.com)**
 
-<br>
-
-<table>
-<tr>
-<td width="60%">
-
-**Industry:** Real Estate Investment
-**Role:** Full-Stack Web Developer
-**Timeline:** 2023 - 2025
-
-**Project Overview:**
-Comprehensive digital infrastructure development for a real estate investment company, including website development, server management, and marketing automation integration.
-
-**Key Deliverables:**
-- 🌐 **WordPress Website Development** - Built and launched professional company website
-- 🖥️ **Server Management** - Ensured uptime, security, and scalability of company infrastructure
-- 🔒 **Security Implementation** - Implemented security protocols to safeguard web assets
-- 📈 **SEO Strategy** - Managed comprehensive SEO for improved search visibility
-- 🤖 **Marketing Automation** - Integrated Zapier and ConvertKit for email campaigns
-- 📊 **Analytics Setup** - Configured Google Analytics and Meta Pixel with Conversions API
-
-**Business Impact:**
-- Improved online presence and brand visibility
-- Automated email marketing workflows
-- Enhanced security posture
-- Data-driven marketing insights through advanced tracking
-- Optimized server performance and reliability
-
-</td>
-<td width="40%">
-
-**Tech Stack**
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Tools & Integrations**
-- Zapier automation
-- ConvertKit email marketing
-- Google Analytics
-- Meta Pixel & Conversions API
-- cPanel/WHM
-- SSL certificates
-- SEO optimization tools
-
-**Key Responsibilities**
-- Full-stack development
-- Server administration
-- Security hardening
-- Marketing automation
-- Performance monitoring
-- Analytics implementation
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<br>
-
-<details>
-<summary><strong>🏘️ TheListingHub - Real Estate Platform & Mobile App</strong></summary>
-
-<br>
-
-<table>
-<tr>
-<td width="60%">
-
-**Industry:** Real Estate & Property Management
-**Role:** Full-Stack Developer
-**Timeline:** 2024 - 2025
-
-**Project Overview:**
-Advanced real estate platform with innovative sponsor share selling functionality, including cross-platform mobile applications and personalized marketing infrastructure.
-
-**Key Features:**
-- 🏠 **Property Listing Platform** - Comprehensive real estate listing system
-- 📱 **Mobile Applications** - Built and deployed apps for iOS (App Store) and Android (Google Play)
-- 💰 **Sponsor Share Selling** - Advanced functionality beyond traditional listing
-- 🌐 **Custom Marketing Sites** - Designed personalized sites for each sponsor
-- 🔗 **Subdomain Management** - Created custom funnels for sponsor promotion
-- 🖥️ **Hosting Infrastructure** - Managed complete hosting and deployment
-
-**Business Impact:**
-- Multi-platform presence (Web, iOS, Android)
-- Innovative revenue model with sponsor shares
-- Personalized marketing capabilities
-- Scalable infrastructure for growth
-- Enhanced user engagement across platforms
-
-**Technical Highlights:**
-- Cross-platform mobile development
-- Custom subdomain architecture
-- Marketing funnel optimization
-- Asset management system
-- Payment processing integration
-
-</td>
-<td width="40%">
-
-**Tech Stack**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Platforms**
-- iOS (App Store)
-- Android (Google Play)
-- Web application
-- Custom hosting
-
-**Architecture**
-- RESTful APIs
-- Mobile app deployment
-- Subdomain routing
-- Marketing automation
-- Payment integration
-- Cloud infrastructure
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<br>
-
-<details>
-<summary><strong>🏡 Honeydid - Custom Platform Development</strong></summary>
-
-<br>
-
-<table>
-<tr>
-<td width="60%">
-
-**Industry:** Home Services Platform
-**Role:** Full-Stack Developer
-**Timeline:** 2024 - 2025
-
-**Project Overview:**
-Fully customized web platform built from scratch using modern React ecosystem, featuring advanced API integrations and comprehensive analytics.
-
-**Key Features:**
-- ⚛️ **Modern React Architecture** - Built with React.js and TypeScript
-- 🎨 **Custom UI/UX** - Designed with Tailwind CSS for responsive experience
-- 🔌 **API Integration** - Comprehensive API implementation using Postman
-- 📊 **Marketing Analytics** - Embedded HubSpot and Google Analytics
-- 🚀 **Advanced Frontend** - Implemented cutting-edge React features
-- 💼 **Business Intelligence** - User insights and performance tracking
-
-**Business Impact:**
-- Fully customized solution tailored to business needs
-- Enhanced user engagement tracking
-- Marketing automation capabilities
-- Data-driven decision making
-- Scalable architecture for future growth
-
-**Technical Highlights:**
-- TypeScript for type safety
-- Component-based architecture
-- API-first development approach
-- Analytics integration
-- Performance optimization
-
-</td>
-<td width="40%">
-
-**Tech Stack**
-
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-**Tools & Integration**
-- Postman API testing
-- HubSpot CRM
-- Google Analytics
-- Custom APIs
-- Modern tooling
-
-**Development Focus**
-- Type-safe development
-- API integration
-- Analytics tracking
-- User experience
-- Performance
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<br>
-
-<details>
-<summary><strong>🏗️ Olympus Precast Company - Corporate Website with AI</strong></summary>
-
-<br>
-
-<table>
-<tr>
-<td width="60%">
-
-**Industry:** Construction & Manufacturing
-**Role:** Full-Stack Developer
-**Timeline:** 2024 - 2025
-
-**Project Overview:**
-Professional corporate website showcasing company services and portfolio, enhanced with AI-powered customer engagement tools.
-
-**Key Features:**
-- 🌐 **WordPress Development** - Professional company website
-- 🤖 **AI Chatbot Integration** - Real-time customer support automation
-- 📁 **Portfolio Showcase** - Display of company projects and services
-- 💬 **Customer Engagement** - Automated interaction and support
-- 📱 **Responsive Design** - Optimized for all devices
-- 🎯 **Lead Generation** - Capturing and managing potential clients
-
-**Business Impact:**
-- Enhanced online professional presence
-- 24/7 automated customer support
-- Improved lead generation
-- Reduced response time for inquiries
-- Showcased company expertise and portfolio
-
-**Technical Highlights:**
-- WordPress customization
-- AI chatbot implementation
-- Custom theme development
-- SEO optimization
-- Performance tuning
-
-</td>
-<td width="40%">
-
-**Tech Stack**
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Features**
-- AI chatbot
-- Custom WordPress theme
-- Portfolio management
-- Contact forms
-- SEO optimization
-
-**Focus Areas**
-- User experience
-- AI integration
-- Lead generation
-- Professional design
-- Performance
-
-</td>
-</tr>
-</table>
-
-</details>
-
----
-
-<div align="center">
-
-### 🎯 Proven expertise delivering enterprise solutions across multiple industries
-
-**[View Complete Portfolio →](https://niepresjohn.com)**
+*Featuring detailed case studies, live demos, and the full scope of my professional work*
 
 </div>
 
