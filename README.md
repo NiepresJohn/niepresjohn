@@ -9,7 +9,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-niepresjohn.com-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://niepresjohn.com)
 [![Email](https://img.shields.io/badge/Email-dev%40niepresjohn.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@niepresjohn.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-niepresjohn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niepresjohn)
-[![Twitter](https://img.shields.io/badge/Twitter-@niepresjohn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/niepresjohn)
 
 </div>
 
@@ -27,7 +26,7 @@
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -540,6 +539,7 @@ Professional corporate website showcasing company services and portfolio, enhanc
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-00D9FF?style=for-the-badge&logoColor=white)
 
 ---
 
