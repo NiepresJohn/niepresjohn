@@ -597,32 +597,48 @@ Long-term partnerships built on trust
 
 ## 💡 Why Work With Me
 
+<div align="center">
+
+*Four key differentiators that ensure your project's success*
+
+</div>
+
 <table>
 <tr>
-<td width="50%" style="padding: 20px; vertical-align: middle;">
+<td align="center" width="25%" style="padding: 20px;">
 
-### 🎯 Business-Focused Development
-I don't just write code; I solve business problems. Every technical decision is made with ROI, scalability, and user experience in mind. I understand that technology serves business goals, not the other way around.
+### 🎯
+### Business-Focused
+**ROI-Driven Solutions**
 
-</td>
-<td width="50%" style="padding: 20px; vertical-align: middle;">
-
-### 💬 Clear Communication
-Regular updates, transparent timelines, and proactive problem-solving keep you informed every step of the way. No surprises, no jargon; just honest, straightforward communication about your project's progress.
+Every technical decision is made with your business goals, scalability, and ROI in mind. Technology serves your objectives.
 
 </td>
-</tr>
-<tr>
-<td width="50%" style="padding: 20px; vertical-align: middle;">
+<td align="center" width="25%" style="padding: 20px;">
 
-### 🚀 Full Project Ownership
-From architecture design to deployment and maintenance, I take complete ownership of projects. This ensures consistent quality, clear accountability, and seamless execution throughout the development lifecycle.
+### 🚀
+### Full Ownership
+**End-to-End Accountability**
+
+Complete project ownership from architecture to deployment ensures consistent quality and seamless execution.
 
 </td>
-<td width="50%" style="padding: 20px; vertical-align: middle;">
+<td align="center" width="25%" style="padding: 20px;">
 
-### ⚡ Proven Delivery Record
-With 30+ successful projects and 100% client satisfaction, I have a track record of delivering on time, on budget, and above expectations. My 85% repeat client rate speaks to the quality and reliability of my work.
+### 💬
+### Clear Communication
+**Always Transparent**
+
+Regular updates, transparent timelines, and proactive problem-solving keep you informed every step of the way.
+
+</td>
+<td align="center" width="25%" style="padding: 20px;">
+
+### ⚡
+### Proven Delivery
+**85% Repeat Rate**
+
+30+ successful projects with 100% satisfaction. My repeat client rate speaks to the quality and reliability of my work.
 
 </td>
 </tr>
