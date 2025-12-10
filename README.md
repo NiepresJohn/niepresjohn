@@ -599,19 +599,27 @@ Long-term partnerships built on trust
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" style="padding: 20px; vertical-align: middle;">
 
 ### 🎯 Business-Focused Development
 I don't just write code; I solve business problems. Every technical decision is made with ROI, scalability, and user experience in mind. I understand that technology serves business goals, not the other way around.
+
+</td>
+<td width="50%" style="padding: 20px; vertical-align: middle;">
+
+### 💬 Clear Communication
+Regular updates, transparent timelines, and proactive problem-solving keep you informed every step of the way. No surprises, no jargon; just honest, straightforward communication about your project's progress.
+
+</td>
+</tr>
+<tr>
+<td width="50%" style="padding: 20px; vertical-align: middle;">
 
 ### 🚀 Full Project Ownership
 From architecture design to deployment and maintenance, I take complete ownership of projects. This ensures consistent quality, clear accountability, and seamless execution throughout the development lifecycle.
 
 </td>
-<td width="50%" valign="top">
-
-### 💬 Clear Communication
-Regular updates, transparent timelines, and proactive problem-solving keep you informed every step of the way. No surprises, no jargon; just honest, straightforward communication about your project's progress.
+<td width="50%" style="padding: 20px; vertical-align: middle;">
 
 ### ⚡ Proven Delivery Record
 With 30+ successful projects and 100% client satisfaction, I have a track record of delivering on time, on budget, and above expectations. My 85% repeat client rate speaks to the quality and reliability of my work.
