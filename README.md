@@ -18,51 +18,46 @@
 
 <div align="center">
 
-### Transforming Business Ideas into Scalable Digital Solutions
+### Full-Stack Web Developer | Cum Laude Graduate | 30+ Projects Delivered
 
-*Creative and detail-oriented Full-Stack Web Developer with 3+ years of experience building scalable, high-performance websites and web applications. Specializing in modern frameworks like Next.js, React.js, Laravel, and TypeScript. Known for delivering clean code, innovative UI/UX, and seamless responsiveness.*
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🎯 Professional Focus**
-- Building enterprise-grade SaaS platforms
-- Developing custom e-commerce solutions
-- Creating dynamic systems for startups
-- Implementing AI-powered automation
-
-**💼 Experience Highlights**
-- 30+ projects delivered successfully
-- 100% client satisfaction rate
-- 85% repeat client engagement
-- Expertise across 7+ industries
-
-</td>
-<td width="50%" valign="top">
-
-**🏆 Academic Excellence**
-- BS Information Technology, Cum Laude
-- GWA: 1.59 (Central Mindanao University)
-- Best in Capstone Project
-- Majored in Software Development
-
-**🌍 Location & Availability**
-- Based in Valencia City, Bukidnon, Philippines
-- Open to remote opportunities worldwide
-- Available for freelance and full-time roles
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-*Passionate about creating impactful solutions that drive business growth and deliver measurable results*
+*Creative and detail-oriented developer specializing in building scalable, high-performance web applications with modern frameworks like Next.js, React, Laravel, and TypeScript*
 
 </div>
+
+---
+
+**🎯 Professional Focus:** Enterprise SaaS Platforms • E-commerce Solutions • AI-Powered Automation • Data Visualization
+
+**💼 Track Record:** 30+ Projects • 100% Client Satisfaction • 85% Repeat Rate • 7+ Industries (Real Estate, SaaS, Construction, Home Services, Tourism, Consulting, Digital Marketing)
+
+**🏆 Academic Excellence:** BS Information Technology, **Cum Laude** with GWA 1.59 • Central Mindanao University • Best in Capstone Project • Software Development Major
+
+**🌍 Open for Opportunities:** Remote Work Worldwide • Based in Valencia City, Bukidnon, Philippines (UTC+8) • Available for Freelance Projects & Full-time Roles
+
+---
+
+<details>
+<summary><strong>📋 View Complete Profile</strong></summary>
+
+<br>
+
+**Technical Specializations:**
+- Building multi-tenant SaaS platforms with subscription models
+- Developing custom e-commerce solutions with payment integrations
+- Implementing AI chatbots and fraud detection systems
+- Creating data visualization dashboards and analytics tools
+- Integrating third-party APIs and automation workflows
+
+**Industries Served:**
+1. Real Estate & Property Management
+2. SaaS & Technology Platforms
+3. Construction & Manufacturing
+4. Home Services
+5. Tourism & Travel
+6. Business Consulting
+7. Digital Marketing & Agencies
+
+</details>
 
 ---
 
