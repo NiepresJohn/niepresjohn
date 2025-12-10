@@ -18,26 +18,36 @@
 
 <div align="center">
 
-### Full-Stack Web Developer | Cum Laude Graduate | 30+ Projects Delivered
+### Full-Stack Web Developer | Cum Laude Graduate
 
 </div>
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top" style="padding: 25px 30px;">
 
 **Creative Full-Stack Developer** with 3+ years building scalable, high-performance web applications. Specialized in modern tech stack: **Next.js, TypeScript, React, and PostgreSQL**. Expert in **Tailwind CSS, Node.js, and WordPress**.
 
 Delivering **clean code**, **innovative UI/UX**, and **production-ready solutions** for startups and growing brands. Known for turning complex requirements into elegant, maintainable applications.
 
-**🎯 Core Expertise:**
-- Enterprise SaaS platforms and subscription models
-- E-commerce solutions with payment integrations
-- Real-time data visualization dashboards
-- AI-powered automation and chatbot systems
+<br>
+
+### 🎯 Technical Specializations
+
+- Building multi-tenant SaaS platforms with subscription models
+- Developing custom e-commerce solutions with payment integrations
+- Implementing AI chatbots and fraud detection systems
+- Creating data visualization dashboards and analytics tools
+- Integrating third-party APIs and automation workflows
+
+<br>
+
+### 🌍 Industries Served
+
+Real Estate • SaaS & Technology • Construction • Home Services • Tourism • Business Consulting • Digital Marketing
 
 </td>
-<td width="40%" valign="top">
+<td width="35%" valign="top" style="padding: 25px 30px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 8px;">
 
 ### 📊 Quick Stats
 
@@ -52,10 +62,12 @@ Client Satisfaction
 **85%**
 Repeat Client Rate
 
-**7+**
-Industries Served
+**3+**
+Years Experience
 
 </div>
+
+<br>
 
 ### 🏆 Credentials
 
@@ -64,76 +76,69 @@ GWA: 1.59
 Best in Capstone Project
 *Central Mindanao University*
 
-</td>
-</tr>
-</table>
+<br>
 
-<table>
-<tr>
-<td align="center" width="33%" style="padding: 20px;">
+### 🌐 Availability
 
-### 💼
-**Professional Experience**
-
-**3+ Years**
-
-Building enterprise applications for startups, established brands, and growing businesses
-
-</td>
-<td align="center" width="33%" style="padding: 20px;">
-
-### 🌐
-**Global Availability**
-
-**Remote Work Worldwide**
-
-Based in Valencia City, Bukidnon, Philippines (UTC+8)
-
-</td>
-<td align="center" width="33%" style="padding: 20px;">
-
-### 🚀
-**Ready to Contribute**
-
-**Full-time & Freelance**
-
-Available for immediate hire on exciting projects
+**Remote Worldwide**
+Valencia City, Philippines
+UTC+8 Timezone
 
 </td>
 </tr>
 </table>
-
-### 🛠️ Technology Stack
-
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-</div>
-
-<details>
-<summary><strong>📋 View Complete Profile</strong></summary>
 
 <br>
 
-**Technical Specializations:**
-- Building multi-tenant SaaS platforms with subscription models
-- Developing custom e-commerce solutions with payment integrations
-- Implementing AI chatbots and fraud detection systems
-- Creating data visualization dashboards and analytics tools
-- Integrating third-party APIs and automation workflows
+### 🛠️ Technology Stack
 
-**Industries Served:**
-Real Estate • SaaS • Construction • Home Services • Tourism • Consulting • Digital Marketing
+<table>
+<tr>
+<td width="50%" valign="top" style="padding: 20px 25px;">
 
-</details>
+**Languages & Frameworks**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+**Databases & Backend**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+</td>
+<td width="50%" valign="top" style="padding: 20px 25px;">
+
+**Frontend & Styling**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Tools & Platforms**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![MyKinsta](https://img.shields.io/badge/MyKinsta-5333ED?style=for-the-badge&logo=kinsta&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-00D9FF?style=for-the-badge&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -296,44 +301,6 @@ I've built enterprise applications, SaaS platforms, e-commerce solutions, and AI
 *Featuring detailed case studies, live demos, and the full scope of my professional work*
 
 </div>
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Databases & Backend
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-### Frontend & Styling
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Platforms
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![MyKinsta](https://img.shields.io/badge/MyKinsta-5333ED?style=for-the-badge&logo=kinsta&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-00D9FF?style=for-the-badge&logoColor=white)
 
 ---
 
