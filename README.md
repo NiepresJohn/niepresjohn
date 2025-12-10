@@ -605,7 +605,7 @@ Long-term partnerships built on trust
 
 <table>
 <tr>
-<td align="center" width="25%" style="padding: 20px;">
+<td align="center" width="25%" style="padding: 20px 20px 25px 20px;">
 
 ### 🎯
 ### Business-Focused
@@ -614,7 +614,7 @@ Long-term partnerships built on trust
 Every technical decision is made with your business goals, scalability, and ROI in mind. Technology serves your objectives.
 
 </td>
-<td align="center" width="25%" style="padding: 20px;">
+<td align="center" width="25%" style="padding: 20px 20px 25px 20px;">
 
 ### 🚀
 ### Full Ownership
@@ -623,7 +623,7 @@ Every technical decision is made with your business goals, scalability, and ROI 
 Complete project ownership from architecture to deployment ensures consistent quality and seamless execution.
 
 </td>
-<td align="center" width="25%" style="padding: 20px;">
+<td align="center" width="25%" style="padding: 20px 20px 25px 20px;">
 
 ### 💬
 ### Clear Communication
@@ -632,7 +632,7 @@ Complete project ownership from architecture to deployment ensures consistent qu
 Regular updates, transparent timelines, and proactive problem-solving keep you informed every step of the way.
 
 </td>
-<td align="center" width="25%" style="padding: 20px;">
+<td align="center" width="25%" style="padding: 20px 20px 25px 20px;">
 
 ### ⚡
 ### Proven Delivery
