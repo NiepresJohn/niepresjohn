@@ -24,9 +24,7 @@
 
 </div>
 
-<br>
-
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -40,7 +38,7 @@
 - 30+ projects delivered successfully
 - 100% client satisfaction rate
 - 85% repeat client engagement
-- Expertise across 5+ industries
+- Expertise across 7+ industries
 
 </td>
 <td width="50%" valign="top">
