@@ -16,13 +16,15 @@
 
 ## 🚀 About Me
 
-<table>
-<tr>
-<td width="65%" valign="top" style="padding: 25px 30px;">
-
 **Creative Full-Stack Developer** with 3+ years building scalable, high-performance web applications. Specialized in modern tech stack: **Next.js, TypeScript, React, and PostgreSQL**. Expert in **Tailwind CSS, Node.js, and WordPress**.
 
 Delivering **clean code**, **innovative UI/UX**, and **production-ready solutions** for startups and growing brands. Known for turning complex requirements into elegant, maintainable applications.
+
+---
+
+📊 **30+ Projects Delivered** • 💯 **100% Client Satisfaction** • 🔄 **85% Repeat Client Rate** • ⏱️ **3+ Years Experience**
+
+---
 
 ### 🎯 Technical Specializations
 
@@ -36,48 +38,15 @@ Delivering **clean code**, **innovative UI/UX**, and **production-ready solution
 
 Real Estate • SaaS & Technology • Construction • Home Services • Tourism • Business Consulting • Digital Marketing
 
-</td>
-<td width="35%" valign="top" style="padding: 25px 30px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 8px;">
+### 🏆 Credentials & Availability
 
-### 📊 Quick Stats
+**Education:** BS Information Technology, **Cum Laude** with GWA 1.59 • Central Mindanao University • Best in Capstone Project • Software Development Major
 
-<div>
+**Availability:** Remote Work Worldwide • Based in Valencia City, Bukidnon, Philippines (UTC+8) • Available for Freelance Projects & Full-time Roles
 
-**30+**
-Projects Delivered
-**100%**
-Client Satisfaction
-**85%**
-Repeat Client Rate
-**3+**
-Years Experience
-
-</div>
-
-### 🏆 Credentials
-
-**Cum Laude** Graduate
-GWA: 1.59
-Best in Capstone Project
-*Central Mindanao University*
-
-### 🌐 Availability
-
-**Remote Worldwide**
-Valencia City, Philippines
-UTC+8 Timezone
-
-</td>
-</tr>
-</table>
-
-<br>
+---
 
 ### 🛠️ Technology Stack
-
-<table>
-<tr>
-<td width="50%" valign="top" style="padding: 20px 25px;">
 
 **Languages & Frameworks**
 
@@ -89,6 +58,9 @@ UTC+8 Timezone
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Databases & Backend**
 
@@ -97,15 +69,6 @@ UTC+8 Timezone
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-</td>
-<td width="50%" valign="top" style="padding: 20px 25px;">
-
-**Frontend & Styling**
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Tools & Platforms**
 
@@ -118,10 +81,6 @@ UTC+8 Timezone
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-00D9FF?style=for-the-badge&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 ---
 
