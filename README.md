@@ -26,14 +26,6 @@ Delivering **clean code**, **innovative UI/UX**, and **production-ready solution
 
 ---
 
-### 🎯 Technical Specializations
-
-- Building multi-tenant SaaS platforms with subscription models
-- Developing custom e-commerce solutions with payment integrations
-- Implementing AI chatbots and fraud detection systems
-- Creating data visualization dashboards and analytics tools
-- Integrating third-party APIs and automation workflows
-
 ### 🌍 Industries Served
 
 Real Estate • SaaS & Technology • Construction • Home Services • Tourism • Business Consulting • Digital Marketing
@@ -169,7 +161,6 @@ Translating designs into **pixel-perfect, responsive interfaces**. Strong focus 
 
 **Industry:** SaaS | Freelance Marketplace
 **Role:** Founder & Lead Developer
-**Timeline:** 2024 - Present
 **Website:** [jobhorizons.online](https://jobhorizons.online/)
 
 **Platform Overview:**
@@ -245,57 +236,6 @@ I've built enterprise applications, SaaS platforms, e-commerce solutions, and AI
 </div>
 
 ---
-
-## 📈 Professional Track Record
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/30+-Projects_Delivered-00D9FF?style=for-the-badge" alt="Projects"/>
-
-### 30+
-**Projects Delivered**
-
-From MVPs to enterprise platforms
-
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/100%25-Client_Satisfaction-00D9FF?style=for-the-badge" alt="Satisfaction"/>
-
-### 100%
-**Client Satisfaction**
-
-Perfect rating across all projects
-
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/3+-Years_Experience-00D9FF?style=for-the-badge" alt="Experience"/>
-
-### 3+ Years
-**Professional Experience**
-
-Full-stack development expertise
-
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/85%25-Repeat_Clients-00D9FF?style=for-the-badge" alt="Retention"/>
-
-### 85%
-**Repeat Clients**
-
-Long-term partnerships built on trust
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
 
 ### 🎯 Core Strengths
 
