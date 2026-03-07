@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-  <img src="./name-anim.svg" alt="Niepres John" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=150&pause=99999999&color=FF8000&center=true&vCenter=true&width=680&height=90&multiline=false&lines=Niepres+John" />
 </h1>
 
 <p align="center">
