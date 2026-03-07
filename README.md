@@ -25,17 +25,15 @@
 
 <div>
 
-🔭 I'm currently building &nbsp;**[JobHorizons](https://jobhorizons.online)** — a freelance marketplace platform
+🔭 Currently working on &nbsp;**shaping the future — one commit at a time**
 
-🌱 Currently exploring &nbsp;**AI integrations, edge deployments & serverless patterns**
+🌱 Currently exploring &nbsp;**the bleeding edge of AI tooling, agentic workflows & what comes after REST**
 
-💬 Ask me about &nbsp;**Next.js, TypeScript, Supabase, PostgreSQL**
+💬 Ask me about &nbsp;**building fast, shipping clean, and knowing when done is done**
 
 📫 Reach me at &nbsp;**dev@niepresjohn.com**
 
 📄 Check my work at &nbsp;**[niepresjohn.com](https://niepresjohn.com)**
-
-⚡ Fun fact &nbsp;**I built my React & TypeScript foundation before AI wrote code — so I actually understand what it generates**
 
 </div>
 
