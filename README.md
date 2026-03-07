@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=niepresjohn.niepresjohn" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NiepresJohn.NiepresJohn" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Niepres+John!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Niepres+John!;" />
 </h1>
 
 <h3 align="center">Full-Stack Developer · Philippines 🇵🇭</h3>
@@ -9,12 +9,31 @@
 <br/>
 
 <div align="center">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
+</div>
+
+<br/>
+
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+<br/>
+
+<div>
 
 🔭 I'm currently building &nbsp;**[JobHorizons](https://jobhorizons.online)** — a freelance marketplace platform
 
 🌱 Currently exploring &nbsp;**AI integrations, edge deployments & serverless patterns**
 
-💬 Ask me about &nbsp;**Next.js, TypeScript, Supabase, PostgreSQL... or anything [here](https://github.com/niepresjohn/niepresjohn/issues)**
+💬 Ask me about &nbsp;**Next.js, TypeScript, Supabase, PostgreSQL**
+
+📫 Reach me at &nbsp;**dev@niepresjohn.com**
+
+📄 Check my work at &nbsp;**[niepresjohn.com](https://niepresjohn.com)**
 
 ⚡ Fun fact &nbsp;**I built my React & TypeScript foundation before AI wrote code — so I actually understand what it generates**
 
@@ -22,7 +41,8 @@
 
 <br/>
 
-<div align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="mailto:dev@niepresjohn.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -32,17 +52,41 @@
   <a href="https://niepresjohn.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
-</div>
+</p>
 
+<br/>
 <hr/>
 
 <h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 <br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,php,laravel,vue" /><br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,html,css,postgresql,supabase,prisma,mongodb,mysql" /><br/>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,wordpress,git,github,figma,postman,vscode" />
-</div>
+
+**Frontend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,vue" />
+  </a>
+</p>
+
+**Backend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,express" />
+  </a>
+</p>
+
+**Databases**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgresql,supabase,prisma,mongodb,mysql" />
+  </a>
+</p>
+
+**Tools & Platforms**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vercel,netlify,wordpress,git,github,figma,postman,vscode" />
+  </a>
+</p>
 
 <br/>
 <hr/>
@@ -72,6 +116,10 @@
 <br/><br/>
 <hr/>
 <br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> — if you want to say <b>hi, I'll be happy to meet you!</b> 🙂</em>
+
+<br/><br/>
 
 <div align="center">
   <h4>💡 "Building scalable solutions that matter, one commit at a time."</h4>
