@@ -105,10 +105,18 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=NiepresJohn&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=NiepresJohn&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img src="https://streak-stats.demolab.com/?user=NiepresJohn&theme=tokyonight&hide_border=true&sideNums=00D9FF&fire=00D9FF&dates=00D9FF&ring=00D9FF" width="100%" alt="streak stats"/>
   <br/><br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiepresJohn&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiepresJohn&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&layout=donut&langs_count=8&hide=HTML&text_color=00D9FF" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NiepresJohn&show_icons=true&line_height=30&rank_icon=github&theme=tokyonight&hide_border=true&text_color=00D9FF&count_private=true" alt="github stats"/>
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NiepresJohn&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NiepresJohn&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NiepresJohn&theme=tokyonight&utcOffset=+8" width="32%"/>
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiepresJohn&theme=tokyonight" width="100%"/>
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiepresJohn&bg_color=1a1b27&color=00D9FF&line=00D9FF&point=ffffff&title_color=00D9FF&hide_border=true&area=true&area_color=00D9FF" width="100%"/>
 </div>
 
 <br/><br/>
