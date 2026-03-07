@@ -1,23 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NiepresJohn.NiepresJohn" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2200&pause=900&color=FF8000&center=true&vCenter=true&width=680&height=80&lines=>+BOOTING+PROFILE...;>+DECRYPTING+IDENTITY...;>+%23%40N!3PR3S_J0HN%25%5E;>+I'm+Niepres+John+%E2%9C%93" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=1800&pause=3000&color=FF8000&center=true&vCenter=true&width=680&height=90&lines=%23%40!N%24%5EP%26R%3F%25S+%2A%40H%21N%3BN!3pR3s+J0hN%3BNiepres+John_" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=2000&color=FF8000&center=true&vCenter=true&width=500&height=30&lines=Full-Stack+Developer+%7C+Philippines+%F0%9F%87%B5%F0%9F%87%AD&opacity=0.75" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=2000&color=FF8000&center=true&vCenter=true&width=500&height=30&lines=Full-Stack+Developer+%7C+Philippines+%F0%9F%87%B5%F0%9F%87%AD" />
 </p>
-
-<br/>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-</div>
 
 <br/>
 
