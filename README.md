@@ -105,18 +105,19 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=NiepresJohn&theme=tokyonight&hide_border=true&sideNums=00D9FF&fire=00D9FF&dates=00D9FF&ring=00D9FF" width="100%" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=NiepresJohn&theme=dark&hide_border=true&background=0D1117&sideNums=FF8000&fire=FF8000&dates=FF8000&ring=FF8000&currStreakLabel=FF8000&sideLabels=FF8000&stroke=FF8000" width="100%" alt="streak stats"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiepresJohn&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&layout=donut&langs_count=8&hide=HTML&text_color=00D9FF" alt="top langs"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=NiepresJohn&show_icons=true&line_height=30&rank_icon=github&theme=tokyonight&hide_border=true&text_color=00D9FF&count_private=true" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiepresJohn&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF8000&text_color=FF8000&icon_color=FF8000&count_private=true&layout=compact&langs_count=8&hide=HTML" width="40%" alt="top langs"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=NiepresJohn&show_icons=true&line_height=30&rank_icon=github&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF8000&text_color=FF8000&icon_color=FF8000&count_private=true" width="48%" alt="github stats"/>
   <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NiepresJohn&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NiepresJohn&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NiepresJohn&theme=tokyonight&utcOffset=+8" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NiepresJohn&theme=2077" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NiepresJohn&theme=2077" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NiepresJohn&theme=2077&utcOffset=+8" width="32%"/>
   <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiepresJohn&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiepresJohn&theme=2077" width="100%"/>
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiepresJohn&bg_color=1a1b27&color=00D9FF&line=00D9FF&point=ffffff&title_color=00D9FF&hide_border=true&area=true&area_color=00D9FF" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiepresJohn&bg_color=0D1117&color=FF8000&line=FF8000&point=ffffff&title_color=FF8000&hide_border=true&area=true&area_color=FF8000" width="100%"/>
 </div>
 
 <br/><br/>
