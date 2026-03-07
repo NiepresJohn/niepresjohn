@@ -90,12 +90,12 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🕹️ My Contributions 🕹️</h2>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NiepresJohn/niepresjohn/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NiepresJohn/niepresjohn/output/github-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NiepresJohn/niepresjohn/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NiepresJohn/niepresjohn/pacman/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NiepresJohn/niepresjohn/pacman/pacman-contribution-graph.svg" />
+    <img alt="pacman eating my contributions" src="https://raw.githubusercontent.com/NiepresJohn/niepresjohn/pacman/pacman-contribution-graph.svg" />
   </picture>
   <br/><br/><br/>
 </div>
