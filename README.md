@@ -107,18 +107,12 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=NiepresJohn&theme=dark&hide_border=true&background=0D1117&sideNums=FF8000&fire=FF8000&dates=FF8000&ring=FF8000&currStreakLabel=FF8000&sideLabels=FF8000&stroke=FF8000" width="100%" alt="streak stats"/>
   <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiepresJohn&theme=2077" width="100%"/>
-  <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiepresJohn&bg_color=0D1117&color=FF8000&line=FF8000&point=ffffff&title_color=FF8000&hide_border=true&area=true&area_color=FF8000" width="100%"/>
 </div>
 
 <br/><br/>
 <hr/>
 <br/>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> — if you want to say <b>hi, I'll be happy to meet you!</b> 🙂</em>
-
-<br/><br/>
 
 <div align="center">
   <h4>💡 "Building scalable solutions that matter, one commit at a time."</h4>
