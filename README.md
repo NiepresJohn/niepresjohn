@@ -1,10 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NiepresJohn.NiepresJohn" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Niepres+John!;" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2200&pause=900&color=FF8000&center=true&vCenter=true&width=680&height=80&lines=>+BOOTING+PROFILE...;>+DECRYPTING+IDENTITY...;>+%23%40N!3PR3S_J0HN%25%5E;>+I'm+Niepres+John+%E2%9C%93" />
 </h1>
 
-<h3 align="center">Full-Stack Developer · Philippines 🇵🇭</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=2000&color=FF8000&center=true&vCenter=true&width=500&height=30&lines=Full-Stack+Developer+%7C+Philippines+%F0%9F%87%B5%F0%9F%87%AD&opacity=0.75" />
+</p>
 
 <br/>
 
