@@ -1,11 +1,13 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NiepresJohn.NiepresJohn" />
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NiepresJohn.NiepresJohn" />
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=1000&color=FF8000&center=true&vCenter=true&width=680&height=30&lines=%5BSYS%5D+Initializing+secure+connection...;%5BSYS%5D+Access+granted.+Decrypting+identity...;%5BSYS%5D+Profile+authenticated+%E2%9C%94" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=400&pause=500&color=FF8000&center=true&vCenter=true&width=680&height=90&lines=%23%40!N%24%5EP%26R%3F%25S+%2A%40H%21N%3BN!3pR3s+J0hN%3BNiepres+John_" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=250&pause=4500&color=FF8000&center=true&vCenter=true&width=680&height=90&lines=%23%40!N%24%5EP%26R%3F%25S+%2A%40H%21N%3BN!3pR3s+J0hN%3BNiepres+John_" />
 </h1>
 
 <p align="center">
