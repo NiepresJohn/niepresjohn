@@ -91,8 +91,13 @@
 **Payments & Integrations**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=stripe,aws,gcp,cloudflare,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,linux" />
   </a>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Braintree-2D3277?style=for-the-badge&logoColor=white" />
 </p>
 
 **Marketing & CMS Tools**
@@ -119,8 +124,6 @@
   <img src="https://img.shields.io/badge/MyKinsta-5333ED?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=white" />
   <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Braintree-2D3277?style=for-the-badge&logoColor=white" />
 </p>
 
 <br/>
