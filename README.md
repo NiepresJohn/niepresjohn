@@ -117,7 +117,7 @@
 <br/>
 
 <div align="center">
-  <h4>💡 "Building scalable solutions that matter, one commit at a time."</h4>
+  <h2>💡 "Building scalable solutions that matter, one commit at a time."</h2>
   <br/>
   <sub>Open to Freelance · Full-time · Remote · Based in Philippines (UTC+8)</sub>
 </div>
