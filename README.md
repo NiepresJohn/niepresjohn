@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=500&pause=400&color=FF8000&center=true&vCenter=true&width=680&height=90&lines=%40%23!%24%5E%3F%25+!%5E%23%40;N!%24%5E%3F%25%2A+%5E%23%40%40;Ni%5E%3F%25%2A!+%23%40%40%23;Nie%25%2A!%5E+%40%40%23!;Niep!%5E%23+%40%23!%24;Niepr%23%40+%23!%24%5E;Niepre%40+!%24%5E%3F;Niepres+%24%5E%3F%25;Niepres+%5E%3F%25%2A;Niepres+J%25%2A!;Niepres+Jo!%5E;Niepres+Joh%23;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=500&pause=400&repeat=false&color=FF8000&center=true&vCenter=true&width=680&height=90&lines=%40%23!%24%5E%3F%25+!%5E%23%40;N!%24%5E%3F%25%2A+%5E%23%40%40;Ni%5E%3F%25%2A!+%23%40%40%23;Nie%25%2A!%5E+%40%40%23!;Niep!%5E%23+%40%23!%24;Niepr%23%40+%23!%24%5E;Niepre%40+!%24%5E%3F;Niepres+%24%5E%3F%25;Niepres+%5E%3F%25%2A;Niepres+J%25%2A!;Niepres+Jo!%5E;Niepres+Joh%23;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John" />
 </h1>
 
 <p align="center">
