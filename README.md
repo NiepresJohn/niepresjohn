@@ -95,6 +95,34 @@
   </a>
 </p>
 
+**Marketing & CMS Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoHighLevel-00D9FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/WPBakery-2C2C2C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/ConvertKit-FB6970?style=for-the-badge&logoColor=white" />
+</p>
+
+**Analytics & Ads**
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta%20Pixel-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logoColor=white" />
+</p>
+
+**Hosting & Server**
+<p align="left">
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MyKinsta-5333ED?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Braintree-2D3277?style=for-the-badge&logoColor=white" />
+</p>
+
 <br/>
 <hr/>
 
