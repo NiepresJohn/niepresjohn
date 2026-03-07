@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NiepresJohn.NiepresJohn" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=1800&pause=3000&color=FF8000&center=true&vCenter=true&width=680&height=90&lines=%23%40!N%24%5EP%26R%3F%25S+%2A%40H%21N%3BN!3pR3s+J0hN%3BNiepres+John_" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=400&pause=500&color=FF8000&center=true&vCenter=true&width=680&height=90&lines=%23%40!N%24%5EP%26R%3F%25S+%2A%40H%21N%3BN!3pR3s+J0hN%3BNiepres+John_" />
 </h1>
 
 <p align="center">
