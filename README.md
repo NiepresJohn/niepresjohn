@@ -70,7 +70,7 @@
 **Backend**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,express" />
+    <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,express,java,androidstudio" />
   </a>
 </p>
 
@@ -85,6 +85,13 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vercel,netlify,wordpress,git,github,figma,postman,vscode" />
+  </a>
+</p>
+
+**Payments & Integrations**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=stripe,aws,gcp,cloudflare,docker,linux" />
   </a>
 </p>
 
