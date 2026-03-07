@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-  <img src="./decrypt-name.svg" alt="Niepres John" />
+  <img src="./name-anim.svg" alt="Niepres John" />
 </h1>
 
 <p align="center">
