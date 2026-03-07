@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=100&deleteSpeed=1&pause=700&color=FF8000&center=true&vCenter=true&width=680&height=90&lines=%40%23!%24%5E%3F%25+*~%23%40;N%23!%24%5E%3F%25+*~%23%40;Ni!%24%5E%3F%25+*~%23%40;Nie%24%5E%3F%25+*~%23%40;Niep%5E%3F%25+*~%23%40;Niepr%3F%25+*~%23%40;Niepre%25+*~%23%40;Niepres+*~%23%40;Niepres+J~%23%40;Niepres+Jo%23%40;Niepres+Joh%40;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John;Niepres+John" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=3500&pause=999999&color=FF8000&center=true&vCenter=true&width=680&height=90&lines=Niepres+John" />
 </h1>
 
 <p align="center">
