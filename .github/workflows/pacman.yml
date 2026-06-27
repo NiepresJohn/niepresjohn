@@ -13,13 +13,24 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: Generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+        uses: abozanona/pacman-contribution-graph@v5.0.0
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Verify SVGs were generated
+        run: |
+          if ! ls dist/*.svg >/dev/null 2>&1; then
+            echo "::error::Pacman generation produced no SVGs in dist/ — upstream action failed silently."
+            echo "Workspace:"; ls -la
+            echo "dist (if any):"; ls -la dist 2>/dev/null || echo "  (no dist dir)"
+            exit 1
+          fi
+          echo "Generated:"; ls -la dist/*.svg
 
       - name: Push pacman SVGs to pacman branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
