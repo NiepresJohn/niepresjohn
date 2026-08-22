@@ -17,7 +17,7 @@ jobs:
 
     steps:
       - name: Generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@v5.0.0
+        uses: abozanona/pacman-contribution-graph@7332e1de7903ab780c3692a4127a59cc13872daa # v5.3.2
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
