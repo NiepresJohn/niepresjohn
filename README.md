@@ -140,9 +140,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align="center">
-  <img src="https://streak-stats-johnny.vercel.app/?user=NiepresJohn&theme=dark&hide_border=true&background=0D1117&sideNums=FF8000&fire=FF8000&dates=FF8000&ring=FF8000&currStreakLabel=FF8000&sideLabels=FF8000&stroke=FF8000&cb=1788178827" width="100%" alt="streak stats"/>
+  <img src="https://streak-stats-johnny.vercel.app/?user=NiepresJohn&theme=dark&hide_border=true&background=0D1117&sideNums=FF8000&fire=FF8000&dates=FF8000&ring=FF8000&currStreakLabel=FF8000&sideLabels=FF8000&stroke=FF8000&cb=1788181382" width="100%" alt="streak stats"/>
   <br/><br/>
-  <img src="https://activity-graph-johnny.vercel.app/graph?username=NiepresJohn&bg_color=0D1117&color=FF8000&line=FF8000&point=ffffff&title_color=FF8000&hide_border=true&area=true&area_color=FF8000&cb=1788178827" width="100%"/>
+  <img src="https://activity-graph-johnny.vercel.app/graph?username=NiepresJohn&bg_color=0D1117&color=FF8000&line=FF8000&point=ffffff&title_color=FF8000&hide_border=true&area=true&area_color=FF8000&cb=1788181382" width="100%"/>
 </div>
 
 <br/><br/>
