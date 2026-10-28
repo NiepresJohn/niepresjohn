@@ -88,16 +88,14 @@
     <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,supabase,prisma" />
   </a>
   <img src="https://img.shields.io/badge/Neon-00E5FF?style=for-the-badge&logo=neon&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drizzle%20ORM-15141B?style=for-the-badge&logo=drizzle&logoColor=white" />
-  <img src="https://img.shields.io/badge/BullMQ-8E45FF?style=for-the-badge&logo=bullmq&logoColor=white" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=drizzle,bullmq" /></a>
 </p>
 
 **Testing & CI/CD**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vitest,playwright,git,github,postman" />
+    <img src="https://skillicons.dev/icons?i=vitest,playwright,git,github,postman,maestro" />
   </a>
-  <img src="https://img.shields.io/badge/Maestro-000000?style=for-the-badge&logo=maestro&logoColor=white" />
   <img src="https://img.shields.io/badge/k6-7D63FF?style=for-the-badge&logo=k6&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
@@ -127,24 +125,23 @@
   <img src="https://img.shields.io/badge/ConvertKit-FB6970?style=for-the-badge&logo=convertkit&logoColor=white" />
   <img src="https://img.shields.io/badge/Twilio-f127fe?style=for-the-badge&logo=twilio&logoColor=white" />
   <img src="https://img.shields.io/badge/SendGrid-F6B422?style=for-the-badge&logo=sendgrid&logoColor=white" />
-  <img src="https://img.shields.io/badge/Commio-00A3E0?style=for-the-badge&logo=language&logoColor=white" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=commio,braintree" /></a>
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Braintree-2D3277?style=for-the-badge&logo=stripe&logoColor=white" />
 </p>
 
 **Analytics & Ads**
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Meta%20Pixel-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=seo" /></a>
 </p>
 
 **Other Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude%20Code-BA68C8?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-00B1EB?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=codex" /></a>
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=vscodedev&logoColor=white" />
 </p>
