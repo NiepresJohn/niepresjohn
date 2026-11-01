@@ -64,15 +64,15 @@
 
 **Frontend Libraries & Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack%20Query-FF8D1A?style=for-the-badge&logo=react-query&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5999?style=for-the-badge&logo=reacthookform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-0EA5E9?style=for-the-badge&logo=zod&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Radix%20UI-160CDD?style=for-the-badge&logo=radix-ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/i18n-006BFF?style=for-the-badge&logo=language&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" height="40" />
+  <img src="https://cdn.simpleicons.org/expo/8B949E" height="40" />
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" />
+  <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="40" />
+  <img src="https://cdn.simpleicons.org/reacthookform/EC5999" height="40" />
+  <img src="https://cdn.simpleicons.org/zod/3E67B1" height="40" />
+  <img src="https://cdn.simpleicons.org/shadcnui/8B949E" height="40" />
+  <img src="https://cdn.simpleicons.org/radixui/8B949E" height="40" />
+  <img src="https://cdn.simpleicons.org/i18next/26A69A" height="40" />
 </p>
 
 **Backend**
@@ -87,63 +87,65 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,supabase,prisma" />
   </a>
-  <img src="https://img.shields.io/badge/Neon-00E5FF?style=for-the-badge&logo=neon&logoColor=white" />
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=drizzle,bullmq" /></a>
+  <img src="https://cdn.simpleicons.org/neon/00E5FF" height="40" />
+  <img src="https://cdn.simpleicons.org/drizzle/C5F74F" height="40" />
 </p>
 
 **Testing & CI/CD**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vitest,playwright,git,github,postman,maestro" />
+    <img src="https://skillicons.dev/icons?i=vitest,git,github,postman" />
   </a>
-  <img src="https://img.shields.io/badge/k6-7D63FF?style=for-the-badge&logo=k6&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="40" />
+  <img src="https://cdn.simpleicons.org/k6/7D64FF" height="40" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" />
 </p>
 
 **Cloud & Server Management**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,digitalocean,linux,docker,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,linux,docker,vercel,netlify" />
   </a>
-  <img src="https://img.shields.io/badge/PM2-424C59?style=for-the-badge&logo=pm2&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Lightsail-FF9900?style=for-the-badge&logo=awslightsail&logoColor=white" />
-  <img src="https://img.shields.io/badge/cPanel%20%7C%20WHM-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MyKinsta-5333ED?style=for-the-badge&logo=mykinsta&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/digitalocean/0080FF" height="40" />
+  <img src="https://cdn.simpleicons.org/pm2/2B037A" height="40" />
+  
+  <img src="https://cdn.simpleicons.org/cpanel/FF6C2C" height="40" />
+  <img src="https://cdn.simpleicons.org/kinsta/5333ED" height="40" />
+  <img src="https://cdn.simpleicons.org/godaddy/1BDBDB" height="40" />
+  <img src="https://cdn.simpleicons.org/hostinger/673DE6" height="40" />
 </p>
 
 **Platforms & Integrations**
 <p align="left">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elementor%20Pro-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
-  <img src="https://img.shields.io/badge/WPBakery-2C2C2C?style=for-the-badge&logo=wpbakery&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoHighLevel-00D9FF?style=for-the-badge&logo=highlevel&logoColor=white" />
-  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/ConvertKit-FB6970?style=for-the-badge&logo=convertkit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Twilio-f127fe?style=for-the-badge&logo=twilio&logoColor=white" />
-  <img src="https://img.shields.io/badge/SendGrid-F6B422?style=for-the-badge&logo=sendgrid&logoColor=white" />
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=commio,braintree" /></a>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" />
+  <img src="https://cdn.simpleicons.org/woocommerce/96588A" height="40" />
+  <img src="https://cdn.simpleicons.org/elementor/92003B" height="40" />
+  
+  
+  <img src="https://cdn.simpleicons.org/hubspot/FF7A59" height="40" />
+  <img src="https://cdn.simpleicons.org/zapier/FF4A00" height="40" />
+  
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@9.21.0/icons/twilio.svg" height="40" />
+  
+  <img src="https://cdn.simpleicons.org/braintree/8B949E" height="40" />
+  <img src="https://cdn.simpleicons.org/stripe/635BFF" height="40" />
+  <img src="https://cdn.simpleicons.org/paypal/00457C" height="40" />
 </p>
 
 **Analytics & Ads**
 <p align="left">
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Meta%20Pixel-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=seo" /></a>
+  <img src="https://cdn.simpleicons.org/googleanalytics/E37400" height="40" />
+  <img src="https://cdn.simpleicons.org/meta/0866FF" height="40" />
+  
 </p>
 
 **Other Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude%20Code-BA68C8?style=for-the-badge&logo=claude&logoColor=white" />
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=codex" /></a>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=vscodedev&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" />
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/gemini.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" />
 </p>
 
 <br/>
