@@ -16,23 +16,18 @@
 
 <br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:dev@niepresjohn.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/niepresjohn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://niepresjohn.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" />
-  </a>
+<p align="center">
+  <a href="mailto:dev@niepresjohn.com"><img src="assets/connect-gmail.svg" alt="Email" height="44"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/niepresjohn"><img src="assets/connect-linkedin.svg" alt="LinkedIn" height="44"/></a>
+  &nbsp;
+  <a href="https://niepresjohn.com"><img src="assets/connect-portfolio.svg" alt="Portfolio" height="44"/></a>
 </p>
 
 <br/>
 <hr/>
 
-<h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
+<img src="assets/title-stack.svg" alt="Languages · Frameworks · Tools" width="100%"/>
 <br/>
 
 <div align="center">
@@ -43,7 +38,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🕹️ My Contributions 🕹️</h2>
+  <img src="assets/title-contrib.svg" alt="My Contributions" width="100%"/>
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NiepresJohn/niepresjohn/pacman/pacman-contribution-graph-dark.svg" />
@@ -55,7 +50,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<img src="assets/title-stats.svg" alt="Stats" width="100%"/>
 <br/>
 <div align="center">
   <img src="https://streak-stats-johnny.vercel.app/?user=NiepresJohn&theme=dark&hide_border=true&background=0D1117&sideNums=FF8000&fire=FF8000&dates=FF8000&ring=FF8000&currStreakLabel=FF8000&sideLabels=FF8000&stroke=FF8000&cb=1788181382" width="100%" alt="streak stats"/>
