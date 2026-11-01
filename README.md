@@ -2,38 +2,16 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NiepresJohn.NiepresJohn" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=1000&color=FF8000&center=true&vCenter=true&width=680&height=30&lines=%5BSYS%5D+Initializing+secure+connection...;%5BSYS%5D+Access+granted.+Decrypting+identity...;%5BSYS%5D+Profile+authenticated+%E2%9C%94" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=3500&pause=999999&color=FF8000&center=true&vCenter=true&width=680&height=90&lines=Niepres+John_" />
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=2000&color=FF8000&center=true&vCenter=true&width=500&height=30&lines=Full-Stack+Developer+%7C+Philippines+%F0%9F%87%B5%F0%9F%87%AD" />
-</p>
-
-<p align="center">Full-Stack Developer based in the Philippines, building SaaS platforms, APIs, mobile apps and WordPress/WooCommerce sites with React, Next.js, Node.js and PostgreSQL.</p>
+<div align="center">
+  <img src="assets/hero.svg" alt="Niepres John — Full-Stack Developer, Philippines" width="100%"/>
+  <br/><br/>
+  <img src="assets/marquee.svg" alt="Tech stack" width="100%"/>
+</div>
 
 <br/>
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
-<br/>
-
-<div>
-
-🔭 Currently working on &nbsp;**shaping the future — one commit at a time**
-
-🌱 Currently exploring &nbsp;**the bleeding edge of AI tooling, agentic workflows & what comes after REST**
-
-💬 Ask me about &nbsp;**building fast, shipping clean, and knowing when done is done**
-
-📫 Reach me at &nbsp;**dev@niepresjohn.com**
-
-📄 Check my work at &nbsp;**[niepresjohn.com](https://niepresjohn.com)**
-
+<div align="center">
+  <img src="assets/about.svg" alt="About Niepres John" width="100%"/>
 </div>
 
 <br/>
@@ -57,98 +35,9 @@
 <h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 <br/>
 
-**Frontend**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,vue" />
-  </a>
-</p>
-
-**Frontend Libraries & Tools**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" height="40" />
-  <img src="https://cdn.simpleicons.org/expo/8B949E" height="40" />
-  <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" />
-  <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="40" />
-  <img src="https://cdn.simpleicons.org/reacthookform/EC5999" height="40" />
-  <img src="https://cdn.simpleicons.org/zod/3E67B1" height="40" />
-  <img src="https://cdn.simpleicons.org/shadcnui/8B949E" height="40" />
-  <img src="https://cdn.simpleicons.org/radixui/8B949E" height="40" />
-  <img src="https://cdn.simpleicons.org/i18next/26A69A" height="40" />
-</p>
-
-**Backend**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,flutter,androidstudio" />
-  </a>
-</p>
-
-**Databases**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,supabase,prisma" />
-  </a>
-  <img src="https://cdn.simpleicons.org/neon/00E5FF" height="40" />
-  <img src="https://cdn.simpleicons.org/drizzle/C5F74F" height="40" />
-</p>
-
-**Testing & CI/CD**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vitest,git,github,postman" />
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="40" />
-  <img src="https://cdn.simpleicons.org/k6/7D64FF" height="40" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" />
-</p>
-
-**Cloud & Server Management**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,linux,docker,vercel,netlify" />
-  </a>
-  <img src="https://cdn.simpleicons.org/digitalocean/0080FF" height="40" />
-  <img src="https://cdn.simpleicons.org/pm2/2B037A" height="40" />
-  
-  <img src="https://cdn.simpleicons.org/cpanel/FF6C2C" height="40" />
-  <img src="https://cdn.simpleicons.org/kinsta/5333ED" height="40" />
-  <img src="https://cdn.simpleicons.org/godaddy/1BDBDB" height="40" />
-  <img src="https://cdn.simpleicons.org/hostinger/673DE6" height="40" />
-</p>
-
-**Platforms & Integrations**
-<p align="left">
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" />
-  <img src="https://cdn.simpleicons.org/woocommerce/96588A" height="40" />
-  <img src="https://cdn.simpleicons.org/elementor/92003B" height="40" />
-  
-  
-  <img src="https://cdn.simpleicons.org/hubspot/FF7A59" height="40" />
-  <img src="https://cdn.simpleicons.org/zapier/FF4A00" height="40" />
-  
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@9.21.0/icons/twilio.svg" height="40" />
-  
-  <img src="https://cdn.simpleicons.org/braintree/8B949E" height="40" />
-  <img src="https://cdn.simpleicons.org/stripe/635BFF" height="40" />
-  <img src="https://cdn.simpleicons.org/paypal/00457C" height="40" />
-</p>
-
-**Analytics & Ads**
-<p align="left">
-  <img src="https://cdn.simpleicons.org/googleanalytics/E37400" height="40" />
-  <img src="https://cdn.simpleicons.org/meta/0866FF" height="40" />
-  
-</p>
-
-**Other Tools**
-<p align="left">
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" />
-  <img src="https://cdn.simpleicons.org/claude/D97757" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/gemini.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" />
-</p>
+<div align="center">
+  <img src="assets/stack.svg" alt="Languages, frameworks and tools: TypeScript, React, Next.js, Node.js, PostgreSQL, Supabase, Docker, AWS, Stripe and more" width="100%"/>
+</div>
 
 <br/>
 <hr/>
@@ -179,7 +68,5 @@
 <br/>
 
 <div align="center">
-  <h2>💡 "Building scalable solutions that matter, one commit at a time."</h2>
-  <br/>
-  <sub>Open to Freelance · Full-time · Remote · Based in Philippines (UTC+8)</sub>
+  <img src="assets/footer.svg" alt="Building scalable solutions that matter, one commit at a time." width="100%"/>
 </div>
