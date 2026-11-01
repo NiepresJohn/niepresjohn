@@ -22,6 +22,13 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Build framed contribution + stats SVGs
+        continue-on-error: true  # pacman SVGs still publish if this fails
+        run: python3 .github/scripts/build_frames.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+
       - name: Verify SVGs were generated
         run: |
           if ! ls dist/*.svg >/dev/null 2>&1; then
