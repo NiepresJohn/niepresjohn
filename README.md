@@ -14,6 +14,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=2000&color=FF8000&center=true&vCenter=true&width=500&height=30&lines=Full-Stack+Developer+%7C+Philippines+%F0%9F%87%B5%F0%9F%87%AD" />
 </p>
 
+<p align="center">Full-Stack Developer based in the Philippines, building SaaS platforms, APIs, mobile apps and WordPress/WooCommerce sites with React, Next.js, Node.js and PostgreSQL.</p>
+
 <br/>
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
